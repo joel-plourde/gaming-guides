@@ -4,6 +4,15 @@ A growing collection of practical gaming guides, visual references, and achievem
 
 Built for quick reference while playing: illustrated units, clear upgrade paths, actionable strategy, and lightweight HTML pages you can download and open in a browser.
 
+## Read online
+
+**[Open Gaming Guides](https://joel-plourde.github.io/gaming-guides/)**
+
+- [Wave 110 & Door Survival](https://joel-plourde.github.io/gaming-guides/Slotbound/wave-110/)
+- [Ten Banners Tracker](https://joel-plourde.github.io/gaming-guides/Slotbound/ten-banners/)
+
+GitHub Pages publishes from `main` at the repository root. The short guide routes contain standalone copies of the downloadable HTML guides; update each matching `index.html` when changing a guide.
+
 ## Slotbound
 
 The first two guides focus on surviving deeper Endless runs and completing the **Ten Banners** achievement.
@@ -44,7 +53,7 @@ The achievement requires activating each faction’s highest synergy tier. The e
 
 **No installation, build step, account, or local server required.** Both guides include their unit images directly in the HTML and can be read offline. External reference links require internet access.
 
-GitHub shows HTML source rather than rendering the guide. Download the files and open them locally for the full experience.
+The GitHub repository shows HTML source. Use the live links above to read in your browser, or download the standalone HTML files for offline use.
 
 ## Tracker saves
 
