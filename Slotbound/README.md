@@ -33,6 +33,7 @@ Images and reference material were sourced from:
 
 - [Slotbound Wiki on Wikily](https://wikily.gg/slotbound/) for the Wave 110 guide.
 - [Slotbound community wiki](https://slotbound.net/units) for the Ten Banners portrait roster and [faction reference](https://slotbound.net/factions).
+- [Official Slotbound Steam store](https://store.steampowered.com/app/4459590/Slotbound/) for the game cover art shown on the guide homepage.
 - [Official Slotbound updates](https://steamcommunity.com/app/4459590/allnews/) for patch information.
 
 Additional references remain linked inside the guides. Image-source attribution does not grant a license to third-party artwork. The repository's [MIT License](../LICENSE) covers original guide code and documentation, not third-party game assets.
